@@ -1,0 +1,13 @@
+requests
+rich
+os
+re
+bs4
+calendar
+sys
+random
+datetime
+subprocess
+logging
+base64
+uuid
